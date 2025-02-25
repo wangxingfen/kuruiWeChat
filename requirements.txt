@@ -1,0 +1,11 @@
+wxauto
+openai
+pyinstaller
+tkinter
+json
+threading
+requests
+uuid
+os
+time
+ramdom
