@@ -1,4 +1,9 @@
-wxauto
+wxauto==3.9.11.17.5
 openai
 requests
-uuid
+selenium
+fake_useragent
+arxiv
+moviepy
+dingtalk_stream
+bs4
